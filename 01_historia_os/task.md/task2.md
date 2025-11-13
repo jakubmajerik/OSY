@@ -1,1 +1,9 @@
+  Úloha č.2
 
+OS Účel Licencia Zaujímavosť
+Windows 11 ? ? ?
+macOS ? ? ?
+Ubuntu ? ? ?
+Android ? ? ?
+FreeRTOS ? ? ?
+Bonusová otázka:
