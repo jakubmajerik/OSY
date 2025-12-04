@@ -1,0 +1,2 @@
+# Technické parametre Pc
+ *
