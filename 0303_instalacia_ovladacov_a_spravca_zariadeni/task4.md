@@ -1,1 +1,2 @@
-Ú1: Správca zariadení - prieskum hardvéru
+## Správca zariadení - prieskum hardvéru
+
