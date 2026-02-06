@@ -1,2 +1,0 @@
-## Správca zariadení - prieskum hardvéru
-
