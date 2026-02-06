@@ -1,6 +1,7 @@
 # Správca zariadení - prieskum hardvéru
 
 | Kategória | Názov zariadenia |
+| --- | --- |
 | Grafické adaptéry| AMD RADEON HD 7560D|
 | Zvukové vstupy a výstupy | Headphones a Microphone |
 | Sieťové adaptéry| Realtek PCle GBe Family COntroler| 
