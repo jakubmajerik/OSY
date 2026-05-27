@@ -12,6 +12,9 @@
 - cp
 - mv
 - pwd
+<img width="955" height="287" alt="image" src="https://github.com/user-attachments/assets/086fc72e-ed96-40d0-8fc7-04ee4e2d64a1" />
+
+
 
 ### 1.2 Spusti `which ls`. Kde reálne leží `ls`?
 
